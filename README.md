@@ -4,3 +4,6 @@
 <br />
 <h1 align="center">
 Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px" height="30px">, I'm Khet </h1>
+<div align="center">
+<img src="https://raw.githubusercontent.com/rock12231/rock12231/f7bd840a3ac2b78128608f2cbfb6f4e18652149a/github-contribution-grid-snake.svg">
+</div>
