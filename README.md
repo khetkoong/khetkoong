@@ -14,6 +14,10 @@ Experience in front-end developer 2+ years, familiar with React (Hooks), MUI and
   </a>
 </p>
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/rock12231/rock12231/f7bd840a3ac2b78128608f2cbfb6f4e18652149a/github-contribution-grid-snake.svg">
 </div>
