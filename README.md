@@ -13,7 +13,7 @@ Experience in front-end developer 2+ years, familiar with React (Hooks), MUI and
     <img src="https://skillicons.dev/icons?i=ts,react,nextjs,firebase,git,github,materialui,vscode,figma,stackoverflow" />
   </a>
 </p>
+<br />
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/rock12231/rock12231/f7bd840a3ac2b78128608f2cbfb6f4e18652149a/github-contribution-grid-snake.svg">
-</div>
+[![@khetkoong's Holopin board](https://holopin.io/api/user/board?user=khetkoong)](https://holopin.io/@khetkoong)
+
