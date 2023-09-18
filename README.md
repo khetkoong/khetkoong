@@ -15,9 +15,7 @@ Experience in front-end developer 3+ years, familiar with React (Hooks), MUI and
 </p>
 <br />
 
-## ⭐️ Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=khetkoong&theme=radical&hide_border=true&card_width=800)](https://git.io/streak-stats)
-<br />
+## ⭐️ Badge
 
 [![@khetkoong's Holopin board](https://holopin.io/api/user/board?user=khetkoong)](https://holopin.io/@khetkoong)
 
