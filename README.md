@@ -17,5 +17,5 @@ Experience in front-end developer 3+ years, familiar with React (Hooks), MUI and
 
 ## ⭐️ Badge
 
-[![@khetkoong's Holopin board](https://holopin.io/api/user/board?user=khetkoong)](https://holopin.io/@khetkoong)
+[![An image of @khetkoong's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khetkoong)](https://holopin.io/@khetkoong)
 
