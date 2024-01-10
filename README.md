@@ -1,5 +1,5 @@
 <h1>Hi<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px" height="30px">, I'm Khet </h1>
-Experience in front-end developer 3+ years, familiar with React (Hooks), MUI and I'm still keep learning new thing everyday! 📖
+Experience as a front-end developer for 3+ years, familiar with React (Hooks), and MUI, and I still keep learning new things every day! 📖
 <br />
 
 <div align="center">
