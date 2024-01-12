@@ -3,6 +3,7 @@ Experience as a front-end developer for 3+ years, familiar with React (Hooks), a
 <br />
 
 ## 💻 Technology
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,react,nextjs,firebase,git,github,materialui,vscode,figma,stackoverflow" />
